@@ -8,7 +8,7 @@ A comprehensive deep learning project implementing multiple neural network archi
 
 **Course:** CSE425 / EEE474 Neural Networks  
 **Academic Year:** Spring 2026  
-**Author:** Abdullah Al Mahamud
+**Authors:** Abdullah Al Mahamud & Siddika Parvin Anni
 
 ---
 
@@ -314,10 +314,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author
+## � Authors
 
 **Abdullah Al Mahamud**  
 Department of Computer Science and Engineering  
+Email: [email protected]  
+
+**Siddika Parvin Anni**  
+Department of Computer Science and Engineering  
+Email: siddika.parvin.anni@g.bracu.ac.bd  
+
 Spring 2026
 
 ---
