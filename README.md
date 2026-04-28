@@ -318,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Abdullah Al Mahamud**  
 Department of Computer Science and Engineering  
-Email: [email protected]  
+Email: abdullah.al.mahamud@g.bracu.ac.bd  
 
 **Siddika Parvin Anni**  
 Department of Computer Science and Engineering  
