@@ -112,7 +112,7 @@ This project explores unsupervised learning methods for music generation across 
 
 ---
 
-## 🚀 Usage
+## 🚀 Usages
 
 ### Quick Start
 ```bash
