@@ -312,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 5. Paszke, A., Gross, S., Chanan, G., et al. (2019). PyTorch: An imperative style, high-performance deep learning library. *arXiv preprint arXiv:1912.01703*.
 
----
+----
 
 ## � Authors
 
@@ -326,7 +326,7 @@ Email: siddika.parvin.anni@g.bracu.ac.bd
 
 Spring 2026
 
----
+----
 
 ## 🙏 Acknowledgments
 
